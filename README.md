@@ -6,3 +6,17 @@
 
 # @0xc/polyglot-snapshot
 
+> Status: ⚠️ **Work In Progress**
+
+This provides a mechanism for generating snapshots of JavaScript variables, be it deeply nested lists, functions, asynchronous factory methods, or whatever- into a target language.
+
+The target languages will initially support TypeScript/JavaScript, Python, JSON, and YAML.
+
+## Roadmap
+
+|Language|Status|
+|--------|------|
+|JSON    |✔️    |
+|YAML    |✔️    |
+|JS/TS   |🚧    |
+|Python  |🚧    |
