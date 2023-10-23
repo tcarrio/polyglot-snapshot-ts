@@ -1,5 +1,5 @@
 {
-  "name": "@0xc/transient",
+  "name": "@0xc/polyglot-snapshot",
   "version": "0.1.0",
   "description": "transient decorator utilizing reflection",
   "main": "dist/index.js",
