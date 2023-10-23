@@ -1,7 +1,7 @@
 {
   "name": "@0xc/polyglot-snapshot",
   "version": "0.1.0",
-  "description": "transient decorator utilizing reflection",
+  "description": "polyglot snapshot generator",
   "main": "dist/index.js",
   "author": "Tom Carrio <tom@carrio.dev>",
   "license": "MIT",
